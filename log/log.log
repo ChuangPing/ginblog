@@ -1,0 +1,15 @@
+time="2022-09-22T10:57:59+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=197 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="417 ms" Status=200
+time="2022-09-22T10:58:12+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=195 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="207 ms" Status=200
+"2022-09-22T10:54:35+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=48 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" Status=200
+time="2022-09-22T10:55:08+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=48 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" Status=200
+time="2022-09-22T10:55:27+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=209 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="220 ms" Status=200
+
+time="2022-09-22T10:32:52+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=65 HostName=Adminchuan Ip=127.0.0.1 Method=GET Path=/api/v1/article/6 SpendTime="61 ms" Status=200
+time="2022-09-22T10:33:00+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=282 HostName=Adminchuan Ip=127.0.0.1 Method=GET Path=/api/v1/article/1 SpendTime="230 ms" Status=200
+time="2022-09-22T10:33:12+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=528 HostName=Adminchuan Ip=127.0.0.1 Method=GET Path=/api/v1/article/2 SpendTime="268 ms" Status=200
+time="2022-09-22T10:33:20+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=999 HostName=Adminchuan Ip=127.0.0.1 Method=GET Path=/api/v1/article/list SpendTime="1 ms" Status=200
+time="2022-09-22T10:43:49+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=57 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="226 ms" Status=200
+time="2022-09-22T10:44:18+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=1516 HostName=Adminchuan Ip=127.0.0.1 Method=GET Path=/api/v1/users SpendTime="2 ms" Status=200
+time="2022-09-22T10:44:36+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=57 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="268 ms" Status=200
+time="2022-09-22T10:45:28+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=55 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="3 ms" Status=200
+time="2022-09-22T10:48:05+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=48 HostName=Adminchuan Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" Status=200
